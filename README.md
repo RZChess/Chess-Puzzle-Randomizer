@@ -5,7 +5,7 @@ The main purpose of this app is to be able to:
 3) be able to randomizes these weblinks and puzzle sets to play and complete them within the app
 
 # How to Download
-Just look for the releases section of this page and there you should find the versions. ####FOR MOBILE USERS: Just scroll to the bottom of the page.
+Just look for the releases section of this page and there you should find the versions. ###FOR MOBILE USERS: Just scroll to the bottom of the page.
 
 After you download the .apk file from there, the app should be downloaded. Note that because this is not a trusted app you may need to stop google from trying to prevent installation. Such as, clicking on the more info section from the pop ups you'll get on your phone and clicking install anyways.
 
