@@ -13,6 +13,7 @@ This tab allows you to insert your own links as a numbered list (seperated by sp
 2. secound link
    ....
    etc
+
 The app will then randomize these links and start opening them at your request within the app via pasting the links into the textbox and hitting the randomize puzzles button. There is also refresh button in top right to start over
 
 Additionally, you can use the customize puzzle set option below this will allow you to randomly choose a specified number of puzzles from your puzzle sets found in the Puzzle Sets tab combined with any links you want to add to the randomization
