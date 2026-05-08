@@ -43,7 +43,7 @@ You can create a puzzle set much like a playlist that lets you add links and has
 2) Adding a help option to the app that redirects to this page
 3) Let users export puzzle sets as numbered links to be copied and stored somewhere else
 4) Adding the ability to create puzzles for non checkmates like winning material (probably using a different site to do them)
-5) Add a flair to each puzzle where you can rate the difficulty of each puzzle and use it for customization
+5) Have the option to add a flair to each puzzle where you can rate the difficulty and use it for customization
 
 # Contact Info
 If you would like to email me about bugs you found or want suggestions to make the app better feel free to email me at emailforspame64@gmail.com, despite the name I will look at them lol
