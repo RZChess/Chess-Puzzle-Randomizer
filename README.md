@@ -18,7 +18,7 @@ This tab allows you to insert your own links as a numbered list (seperated by sp
 
 The app will then randomize these links and start opening them at your request within the app. You accomplish this by pasting your puzzle links into the textbox and hitting the randomize puzzles button. There is also refresh button in top right to start over
 
-Additionally, you can use the customize puzzle set option below this will allow you to randomly choose a specified number of puzzles from your puzzle sets found in the Puzzle Sets tab combined with any links you want to add to the randomization
+Additionally, you can use the customize puzzle set option below this will allow you to randomly choose a specified number of puzzles from each of your puzzle sets found in the Puzzle Sets tab combined with any links you want to add to the randomize
 
 ## Preset Puzzles
 This allows you to play through 12 preset puzzles from a couple of my games. You can hit the refresh to start over and add puzzles to the preset if you want more of them
