@@ -11,7 +11,9 @@ This app has four tabs used for different purposes: i) Custom ii) Preset Puzzles
 This tab allows you to insert your own links as a numbered list (seperated by spaces) such as
 1. first link
 2. secound link
+   
    ....
+   
    etc
 
 The app will then randomize these links and start opening them at your request within the app via pasting the links into the textbox and hitting the randomize puzzles button. There is also refresh button in top right to start over
