@@ -24,7 +24,7 @@ Additionally, you can use the customize puzzle set option below this will allow 
 This allows you to play through 12 preset puzzles from a couple of my games. You can hit the refresh to start over and add puzzles to the preset if you want more of them
 
 ## Create Puzzle
-To create a puzzle out of a Chess.com game you first need the PGN this can be found by going into the game you want to analyze and clicking on the share option in the bottom left. There you should find the option to copy PGN. Then, remember which move in your game you want your chess puzzle to start from. 
+To create a puzzle out of a Chess.com game you first need the PGN. This can be found by going into the game you want to analyze and clicking on the share option in the bottom left. There you should find the option to copy PGN. Then, remember which move in your game you want your chess puzzle to start from. 
 
 Then go into the app and paste your PGN there. The app will simplify this PGN and will ask for a cutoff move and edit the PGN based on this cutoff move. Once your happy with what's in the textbox you will get an option to copy it and once you click the button it will take you to a tool to convert your PGN into a FEN for you to copy. Once you copied your FEN and closed that window, another will pop up that you can paste your FEN into in order to create your puzzle. Once the puzzle is tested you can click on the create shareable link option at the bottom and copy the link it gives you.
 
