@@ -4,7 +4,10 @@ The main purpose of this app is to be able to:
 2) be able to create puzzle sets out of these weblinks
 3) be able to randomizes these weblinks and puzzle sets to play and complete them within the app
 
-# How to use
+# How to Download
+Just look for the releases section of this page and there you should find the versions. After you download the .apk file from there, the app should be downloaded. Note that because this is not a trusted app you may need to stop google from trying to prevent installation. Such as, clicking on the more info section on the pop ups you'll get on your phone and clicking install anyways.
+
+# How to Use
 This app has four tabs used for different purposes: i) Custom ii) Preset Puzzles iii) Create Puzzle iv) Puzzle Sets
 
 ## Custom
@@ -33,7 +36,7 @@ From here, the app will ask you to insert the link you obtained and upon doing s
 ## Puzzle Sets
 You can create a puzzle set much like a playlist that lets you add links and has a sorting feature once you're done. You can also add the links using a numbered list of them instead of individually as well. Each playlist can be edited at any time and are permementally saved on the app
 
-# Future plans
+# Future Plans
 1) Making sure you can see the list of puzzle sets in the preset puzzles with the option to remove or change them
 2) Adding a help option to the app that redirects to this page
 3) Let users export puzzle sets as numbered links to be copied and stored somewhere else
