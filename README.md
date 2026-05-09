@@ -29,9 +29,16 @@ Additionally, you can use the customize puzzle set option below this will allow 
 This allows you to play through 12 preset puzzles from a couple of my games. You can hit the refresh to start over and add puzzles to the preset if you want more of them
 
 ## Create Puzzle
-To create a puzzle out of a Chess.com game you first need the PGN. This can be found by going into the game you want to analyze and clicking on the share option in the bottom left. There you should find the option to copy PGN. Finally, you need to remember which move in your game you want your chess puzzle to start from. 
+To create a puzzle out of a Chess.com game you first need the PGN. This can be found by going into the game you want to analyze and clicking on the share option in the bottom left. There you should find the option to copy PGN. It's important to remember if you were playing as white or black. When inserting the PGN, after this app simplifies it for you there will be two options: Automatic and Manual both will ask if you are playing as white or black.
 
-Then go into the app and paste your PGN there. The app will simplify this PGN and will ask for a cutoff move and edit the PGN based on this cutoff move. Once your happy with what's in the textbox you will get an option to copy it and once you click the button it will take you to a tool to convert your PGN into a FEN for you to copy. Once you copied your FEN and closed that window, another window will pop up that you can paste your FEN into in order to create your puzzle. Once the puzzle is tested you can click on the create shareable link option at the bottom and copy the link it gives you.
+Automatic:
+Upon clicking this button the built in stockfish will analyze all the positions in your game and check to see where you missed checkmate. It will then return which moves will lead to forced mate with notation similar to 20. M5 this means on the 20th move, you can force checkmate in 5 moves. The M stands for mate, this type of notation is also used in chess.com game reveiws and analysis. The app will ask you for a cut off move and you just enter which one you want to create a puzzle for
+
+Manual:
+Here it is assumed you already know which move you can force mate on and you just enter it
+
+Both:
+After you insert the cutoff move, the app will convert the PGN into a FEN, which gives the position your board is currently in when you are able to force checkmate. When you hit the copy and use tool button a website will appear that will allow you to create your chess puzzle. Once the puzzle is tested you can click on the create shareable link option at the bottom and copy the link it gives you.
 
 From here, the app will ask you to insert the link you obtained and upon doing so, it will add the link under the simplified PGN for your game. You can use the same PGN to create another puzzle or use a different game to create a new puzzle using the "add new game" button which will allow you to do the same thing again. Once the links are created you'll have the option to copy them, add them permenantly to the presets, or add them to a puzzle set
 
@@ -44,7 +51,7 @@ You can create a puzzle set much like a playlist that lets you add links and has
 3) Let users export puzzle sets as numbered links to be copied and stored somewhere else
 4) Adding the ability to create puzzles for non checkmates like winning material (probably using a different site to do them)
 5) Have the option to add a flair to each puzzle where you can rate the difficulty and use it for customization
-6) Have an automatic option when creating puzzles that will send the game into stockfish and find the move numbers where you have checkmate and tell you in how many moves. Like move 20 M7 (mate in 7)
+6) Having a settings option that will allow you to customize the app such as editing the presets and changing what website the app redirects to for creating your puzzle
 7) Have the option to go to some website that can test out these mates before you decide which puzzles to make based on 6th change or to automatically make the puzzles from the moves themselves
 
 # Contact Info
