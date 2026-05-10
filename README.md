@@ -26,7 +26,7 @@ The app will then randomize these links and start opening them at your request w
 Additionally, you can use the customize puzzle set option below this will allow you to randomly choose a specified number of puzzles from each of your puzzle sets found in the Puzzle Sets tab combined with any links you want to add to the randomize
 
 ## Preset Puzzles
-This allows you to play through 12 preset puzzles from a couple of my games. You can hit the refresh to start over and add puzzles to the preset if you want more of them in the settings and every time you create a puzzle. You can also remove puzzles from the presets if you don't like some of them. There is also an optional setting to ask for approval, which will ask if you want to keep or delete the preset puzzles when you play them for the first time.
+This allows you to play through 12 preset puzzles from a couple of my games. You can hit the refresh to start over and add puzzles to the preset if you want more of them in the settings and every time you create a puzzle. You can also remove puzzles from the presets if you don't like some of them. There is also an optional setting to ask for approval, which will ask if you want to keep or delete the preset puzzles when you play them for the first time. The default is to have this feature on until you complete all the preset puzzles, but you have the option to turn this off in the settings
 
 ## Create Puzzle
 To create a puzzle out of a Chess.com game you first need the PGN. This can be found by going into the game you want to analyze and clicking on the share option in the bottom left. There you should find the option to copy PGN. It's important to remember if you were playing as white or black. When inserting the PGN, after this app simplifies it for you there will be two options: Automatic and Manual both will ask if you are playing as white or black.
@@ -46,11 +46,10 @@ From here, the app will ask you to insert the link you obtained and upon doing s
 You can create a puzzle set much like a playlist that lets you add links and has a sorting feature once you're done. You can also add the links using a numbered list of them instead of individually as well. Each playlist can be edited at any time and are permementally saved on the app
 
 # Future Plans
-1) Making sure you can see the list of puzzle sets in the preset puzzles with the option to remove or change them
-2) Adding a help option to the app that redirects to this page
-3) Adding the ability to create puzzles for non checkmates like winning material (probably using a different site to do them)
-4) Have the option to add a flair to each puzzle where you can rate the difficulty and use it for customization
-5) Have the option to go to some website that can test out these mates before you decide which puzzles to make based on 6th change or to automatically make the puzzles from the moves themselves
+1) Adding a help option to the app that redirects to this page
+2) Adding the ability to create puzzles for non checkmates like winning material (probably using a different site to do them)
+3) Have the option to add a flair to each puzzle where you can rate the difficulty and use it for customization
+4) Have the option to go to some website that can test out these mates before you decide which puzzles to make based on 6th change or to automatically make the puzzles from the moves themselves
 
 # Contact Info
 If you would like to email me about bugs you found or want suggestions to make the app better feel free to email me at emailforspame64@gmail.com, despite the name I will look at them lol
