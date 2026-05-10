@@ -48,6 +48,7 @@ You can create a puzzle set much like a playlist that lets you add links and has
 # Future Plans
 1) Adding the ability to create puzzles for non checkmates like winning material (probably using a different site to do them)
 2) Have the option to add a flair to each puzzle where you can rate the difficulty and use it for customization
+3) Making sure best moves feature is on all the puzzles not just in puzzle creation
 
 # Contact Info
 If you would like to email me about bugs you found or want suggestions to make the app better feel free to email me at emailforspame64@gmail.com, despite the name I will look at them lol
