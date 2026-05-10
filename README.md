@@ -46,9 +46,8 @@ From here, the app will ask you to insert the link you obtained and upon doing s
 You can create a puzzle set much like a playlist that lets you add links and has a sorting feature once you're done. You can also add the links using a numbered list of them instead of individually as well. Each playlist can be edited at any time and are permementally saved on the app
 
 # Future Plans
-1) Adding a help option to the app that redirects to this page
-2) Adding the ability to create puzzles for non checkmates like winning material (probably using a different site to do them)
-3) Have the option to add a flair to each puzzle where you can rate the difficulty and use it for customization
+1) Adding the ability to create puzzles for non checkmates like winning material (probably using a different site to do them)
+2) Have the option to add a flair to each puzzle where you can rate the difficulty and use it for customization
 
 # Contact Info
 If you would like to email me about bugs you found or want suggestions to make the app better feel free to email me at emailforspame64@gmail.com, despite the name I will look at them lol
