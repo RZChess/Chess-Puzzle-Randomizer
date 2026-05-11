@@ -23,7 +23,7 @@ This tab allows you to insert your own links as a numbered list (seperated by sp
 
 The app will then randomize these links and start opening them at your request within the app. You accomplish this by pasting your puzzle links into the textbox and hitting the randomize puzzles button. There is also refresh button in top right to start over
 
-Additionally, you can use the customize puzzle set option below this will allow you to randomly choose a specified number of puzzles from each of your puzzle sets found in the Puzzle Sets tab combined with any links you want to add to the randomize
+Additionally, you can use the customize puzzle set option below this will allow you to randomly choose a specified number of puzzles from each of your puzzle sets found in the Puzzle Sets tab or dy difficulty using the ratings system combined with any links you want to add to the randomize
 
 ## Preset Puzzles
 This allows you to play through 12 preset puzzles from a couple of my games. You can hit the refresh to start over and add puzzles to the preset if you want more of them in the settings and every time you create a puzzle. You can also remove puzzles from the presets if you don't like some of them. There is also an optional setting to ask for approval, which will ask if you want to keep or delete the preset puzzles when you play them for the first time. The default is to have this feature on until you complete all the preset puzzles, but you have the option to turn this off in the settings
@@ -38,17 +38,21 @@ Manual:
 Here it is assumed you already know which move you can force mate on and you just enter it
 
 Both:
-After you insert the cutoff move, the app will convert the PGN into a FEN, which gives the position your board is currently in when you are able to force checkmate. When you hit the copy and use tool button a website will appear that will allow you to create your chess puzzle. Once the puzzle is tested you can click on the create shareable link option at the bottom and copy the link it gives you.
+After you insert the cutoff move, the app will convert the PGN into a FEN, which gives the position your board is currently in when you are able to force checkmate. When you hit the create puzzle button a website will appear that will allow you to create your chess puzzle. Once the puzzle is tested you can click on the create shareable link option at the bottom and copy the link it gives you.
 
 From here, the app will ask you to insert the link you obtained and upon doing so, it will add the link under the simplified PGN for your game. You can use the same PGN to create another puzzle or use a different game to create a new puzzle using the "add new game" button which will allow you to do the same thing again. Once the links are created you'll have the option to copy them, add them permenantly to the presets, or add them to a puzzle set
 
 ## Puzzle Sets
 You can create a puzzle set much like a playlist that lets you add links and has a sorting feature once you're done. You can also add the links using a numbered list of them instead of individually as well. Each playlist can be edited at any time and are permementally saved on the app
 
+## Ratings
+In many of the sections it will ask you to rate puzzles. The purpose of this is to later be abled to randomly play puzzles of different ratings of difficulty. If it is your first time playing one of the preset links it will ask for your rating. In the settings there is an option to show ratings, which will show what difficulty rating you gave to each puzzle with the option to click on the rating to change it. When you get better at solving puzzles and thus, the ratings need to be adjusted, you can hit the delete all ratings feature in order to redo them. 
+
 # Future Plans
 1) Adding the ability to create puzzles for non checkmates like winning material (probably using a different site to do them)
 2) Making sure best moves feature is on all the puzzles not just in puzzle creation
 3) Maybe add app for IOS
+4) Make another settings for ratings that will play through all the puzzles you have rated and adjust the rating afterwards. Called adjust rating manually and one option called adjust rating automatically that will give you a small sample of the puzzles you have rated say 8 and convert all the rest based on some prediction algorithm without the user having to play through every single one. 
 
 # Contact Info
 If you would like to email me about bugs you found or want suggestions to make the app better feel free to email me at emailforspame64@gmail.com, despite the name I will look at them lol
